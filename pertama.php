@@ -19,3 +19,4 @@ if ($waktu > 19) {
 }
 
 echo "{$sapaan}, {$nama}! Sekarang pukul {$waktu}:{$menit}\n";
+?>
